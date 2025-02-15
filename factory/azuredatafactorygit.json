@@ -1,0 +1,9 @@
+{
+	"name": "azuredatafactorygit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7655007-cdbb-44c8-8eb2-786d3c533d91",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
